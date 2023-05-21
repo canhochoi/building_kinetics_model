@@ -2,7 +2,7 @@
 Automating the construction of kinetics models with symbolic python. 
 Currently working for the following reaction scheme under continuous stirring reactor:
 
-HCOOH(g) + * --> HCOOH*
+HCOOH(g) + * --> HCOOH* 
 HCOOH* + * ---> HCOObi* + H*
 HCOObi* --> HCOOmono* 
 HCOOmono* + * --> CO2* + H*
